@@ -1,0 +1,129 @@
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\bin\Release\HMS.exe.config
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\bin\Release\HMS.exe
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\bin\Release\HMS.pdb
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.Add_Data.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.Doctor_Record.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.Login.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.Portal.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.Search_Record.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.Update_Record.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.View.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.Properties.Resources.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.csproj.GenerateResource.Cache
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.exe
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.pdb
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.csprojResolveAssemblyReference.cache
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.AddPrescription.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.Display.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.SearchPatientRecord.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\HMS\HMS\HMS\obj\Release\HMS.PAL.UpdatePatient.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\bin\Release\HMS.exe.config
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.exe
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.pdb
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\bin\Release\HMS.exe
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\bin\Release\HMS.pdb
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.csprojResolveAssemblyReference.cache
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.AddPrescription.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.Add_Data.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.Display.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.Doctor_Record.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.Login.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.Portal.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.SearchPatientRecord.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.Search_Record.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.UpdatePatient.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.PAL.View.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.Properties.Resources.resources
+C:\Users\mani7\Desktop\Aleesha\project\HMS\HMS\obj\Release\HMS.csproj.GenerateResource.Cache
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\bin\Release\HMS.exe.config
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.exe
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.pdb
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\bin\Release\HMS.exe
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\bin\Release\HMS.pdb
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.csprojResolveAssemblyReference.cache
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.AddPrescription.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.Add_Data.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.Display.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.Doctor_Record.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.Login.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.Portal.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.SearchPatientRecord.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.Search_Record.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.UpdatePatient.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.PAL.View.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.Properties.Resources.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database Systems\Assignments\HMS\HMS\obj\Release\HMS.csproj.GenerateResource.Cache
+C:\Users\mani7\Downloads\HMS\HMS\bin\Release\HMS.exe.config
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.exe
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.pdb
+C:\Users\mani7\Downloads\HMS\HMS\bin\Release\HMS.exe
+C:\Users\mani7\Downloads\HMS\HMS\bin\Release\HMS.pdb
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.csprojResolveAssemblyReference.cache
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.AddPrescription.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.Add_Data.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.Display.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.Doctor_Record.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.Login.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.Portal.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.SearchPatientRecord.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.Search_Record.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.UpdatePatient.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.PAL.View.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.Properties.Resources.resources
+C:\Users\mani7\Downloads\HMS\HMS\obj\Release\HMS.csproj.GenerateResource.Cache
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\bin\Release\HMS.exe.config
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.exe
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.pdb
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\bin\Release\HMS.exe
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\bin\Release\HMS.pdb
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.csprojResolveAssemblyReference.cache
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.AddPrescription.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Add_Data.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Display.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Doctor_Record.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Login.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Portal.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.SearchPatientRecord.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Search_Record.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.UpdatePatient.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.View.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.Properties.Resources.resources
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.csproj.GenerateResource.Cache
+E:\University\Semester 3\Project\6th\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.login_Form.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\bin\Release\HMS.exe.config
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.exe
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.pdb
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\bin\Release\HMS.exe
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\bin\Release\HMS.pdb
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.csprojResolveAssemblyReference.cache
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.AddPrescription.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Add_Data.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Display.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Doctor_Record.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Login.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.login_Form.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Portal.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.SearchPatientRecord.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Search_Record.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.UpdatePatient.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.View.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.Properties.Resources.resources
+E:\One Dive -Higher\OneDrive - Higher Education Commission\Documents\Sem 3\Database System Lab\Lab Plans\HMS (2)\HMS\HMS\obj\Release\HMS.csproj.GenerateResource.Cache
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\bin\Release\HMS.exe.config
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.exe
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.pdb
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.csprojResolveAssemblyReference.cache
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.AddPrescription.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Add_Data.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Display.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Doctor_Record.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.login_Form.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Portal.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.SearchPatientRecord.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.Search_Record.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.UpdatePatient.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.PAL.View.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.Properties.Resources.resources
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\obj\Release\HMS.csproj.GenerateResource.Cache
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\bin\Release\HMS.exe
+C:\Users\mani7\Downloads\HMS (2)\HMS\HMS\bin\Release\HMS.pdb
