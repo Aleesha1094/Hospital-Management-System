@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6EAE6425-8B78-4DDE-AD46-81063C03802C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HMS</RootNamespace>
+    <AssemblyName>HMS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPrescription.Designer.cs">
+      <DependentUpon>AddPrescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BAL\Admin.cs" />
+    <Compile Include="BAL\Appointment.cs" />
+    <Compile Include="BAL\Class1.cs" />
+    <Compile Include="DAL\DAL.cs" />
+    <Compile Include="BAL\Doctor.cs" />
+    <Compile Include="BAL\Login.cs" />
+    <Compile Include="PAL\Add_Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Add_Data.Designer.cs">
+      <DependentUpon>Add_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Display.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Display.Designer.cs">
+      <DependentUpon>Display.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Doctor_Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Doctor_Record.Designer.cs">
+      <DependentUpon>Doctor_Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\login_Form.Designer.cs">
+      <DependentUpon>login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Portal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Portal.Designer.cs">
+      <DependentUpon>Portal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\SearchPatientRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\SearchPatientRecord.Designer.cs">
+      <DependentUpon>SearchPatientRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Search_Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Search_Record.Designer.cs">
+      <DependentUpon>Search_Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\UpdatePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\UpdatePatient.Designer.cs">
+      <DependentUpon>UpdatePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\View.Designer.cs">
+      <DependentUpon>View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BAL\Patient.cs" />
+    <Compile Include="BAL\People.cs" />
+    <Compile Include="BAL\Pharmacy.cs" />
+    <Compile Include="BAL\Prescription.cs" />
+    <Compile Include="BAL\Program.cs" />
+    <Compile Include="Project_KIADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Project_KIADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddPrescription.resx">
+      <DependentUpon>AddPrescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Add_Data.resx">
+      <DependentUpon>Add_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Display.resx">
+      <DependentUpon>Display.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Doctor_Record.resx">
+      <DependentUpon>Doctor_Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\login_Form.resx">
+      <DependentUpon>login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Portal.resx">
+      <DependentUpon>Portal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\SearchPatientRecord.resx">
+      <DependentUpon>SearchPatientRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Search_Record.resx">
+      <DependentUpon>Search_Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\UpdatePatient.resx">
+      <DependentUpon>UpdatePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\View.resx">
+      <DependentUpon>View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Project_KIADataSet.xsc">
+      <DependentUpon>Project_KIADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Project_KIADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Project_KIADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Project_KIADataSet.xss">
+      <DependentUpon>Project_KIADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\555.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
